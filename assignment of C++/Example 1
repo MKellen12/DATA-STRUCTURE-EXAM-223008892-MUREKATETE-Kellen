@@ -1,4 +1,0 @@
-this hello words displayed with help of different mainin.cpp(c++language) where we use 
-#include <iostream>: include input,output library,this include a library that helps to use court (to print messsage to the screen) and cin(to read an integer from standard input)
-int main(): main function, this is where program start.
-return 0;: this indicate sucessfull excution.
